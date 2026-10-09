@@ -33,7 +33,7 @@ OriDock 帮助你整理本地技能文档、连接外部 Agent 目录，并同�
 
 浏览、搜索或下载技能时，应用会联系 [skills.sh](https://skills.sh/)、[ClawHub](https://clawhub.ai/) 或 GitHub 的 API 与原始内容服务。搜索词、所选技能或仓库标识、分支、文件路径及普通网络信息会传递给对应服务；服务可看到 IP 地址等请求信息。本地网络缓存或临时文件可能保存响应内容。
 
-这些服务是独立运营的第三方。OriDock 没有广告跟踪集成，但这不代表第三方没有日志或自己的数据处理。我们不为其保留期限作承诺；其政策、条款和实际配置决定其处理方式。GitHub 的说明见其 [隐私声明](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)；其他服务的最新说明请在其网站核对。
+这些服务是独立运营的第三方。OriDock 没有广告跟踪集成，但这不代表第三方没有日志或自己的数据处理。我们不为其保留期限作承诺；其政策、条款和实际配置决定其处理方式。GitHub 的说明见其 [隐私声明](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)；skills.sh 的说明见其 [隐私政策](https://www.skills.sh/privacy)；ClawHub 的最新说明请在其网站核对。
 
 ## 5. 系统翻译
 

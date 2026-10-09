@@ -4,7 +4,6 @@ Support
 
 先选择文件夹，再检查连接。启用同步前，确认仓库中没有不想上传的内容。
 
-[目录授权](#folders)[HTTPS 同步](#sync)[后台运行](#background)[数据迁移](#migration)[常见问题](#troubleshooting)[联系支持](#contact)
 
 ## 1. 选择允许访问的文件夹
 
