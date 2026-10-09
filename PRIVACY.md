@@ -5,7 +5,7 @@ Privacy
 生效日期：2026 年 10 月 9 日 · 发布者：Denghao
 适用于 OriDock Mac App Store 版本及本支持网站。
 
-你的文件夹由你授权。部分功能在本机处理；使用技能市场或 Git 同步时，会向相应服务发送请求和必要内容。
+你的文件夹由你授权。技能文档管理在本机处理；使用你自行配置的 Git 同步时，会向你选择的服务发送请求和必要内容。发布者及其合作伙伴不从应用收集用户数据。
 
 ## 1. 我们是谁
 
@@ -29,11 +29,11 @@ OriDock 帮助你整理本地技能文档、连接外部 Agent 目录，并同�
 
 同步用户名、令牌或密码，以及代理密码使用 macOS 钥匙串保存。后台模块为相应同步功能使用已保存的凭据。应用按设计避免把令牌写入远端 URL、普通设置或诊断日志。移除已存凭据与在 Git 服务撤销令牌是两项不同操作。
 
-## 4. 技能市场与外部服务
+## 4. 外部服务与首版功能范围
 
-浏览、搜索或下载技能时，应用会联系 [skills.sh](https://skills.sh/)、[ClawHub](https://clawhub.ai/) 或 GitHub 的 API 与原始内容服务。搜索词、所选技能或仓库标识、分支、文件路径及普通网络信息会传递给对应服务；服务可看到 IP 地址等请求信息。本地网络缓存或临时文件可能保存响应内容。
+Mac App Store 首版不提供社区技能浏览、搜索、在线导入或社区更新。skills.sh、ClawHub 与 GitHub 社区内容访问路径在商店版中关闭。你可以管理自己授权的本地文档，或通过自选 HTTPS Git 仓库同步。
 
-这些服务是独立运营的第三方。OriDock 没有广告跟踪集成，但这不代表第三方没有日志或自己的数据处理。我们不为其保留期限作承诺；其政策、条款和实际配置决定其处理方式。GitHub 的说明见其 [隐私声明](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)；skills.sh 的说明见其 [隐私政策](https://www.skills.sh/privacy)；ClawHub 的最新说明请在其网站核对。
+用户自行选择的 Git 服务独立运营。OriDock 发布者没有委托这些服务代为收集用户数据，也不能查看你的搜索、文档或活动数据。远端服务仍可看到同步内容和普通网络信息；其处理方式由服务政策和你选择的仓库配置决定。GitHub 的说明见其[隐私声明](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)。
 
 ## 5. 系统翻译
 
@@ -69,10 +69,7 @@ OriDock 帮助你整理本地技能文档、连接外部 Agent 目录，并同�
 
 ## English summary
 
-OriDock is published by Denghao. Contact [dh@denghao.org](mailto:dh@denghao.org) for support or privacy requests. You choose local folders the app may access. Optional local usage analysis and migration operate on your Mac. Git synchronization sends repository content, commit information and authentication requests to the HTTPS host you select; market features contact skills.sh, ClawHub and GitHub. Those services control their own retention and privacy practices.
+OriDock is published by Denghao. Contact [dh@denghao.org](mailto:dh@denghao.org) for support or privacy requests. You choose local folders the app may access. Optional local usage analysis and migration operate on your Mac. Git synchronization sends repository content, commit information and authentication requests to the HTTPS host you select; the Mac App Store first release disables community browsing, online skill imports and community updates. User-selected Git hosts independently control their own retention and privacy practices. OriDock and its partners do not collect user data from the app.
 
 Credentials use macOS Keychain. There is no OriDock account, advertising integration or automatic diagnostics upload. The translation feature uses Apple's system Translation capability. Local backups and recovery copies do not have an automatic deletion deadline. Disconnecting or uninstalling does not erase external files, Keychain records or remote repositories. Support email is used to respond to your request and keep necessary correspondence. The publisher’s documentation content embeds no analytics or advertising code. GitHub hosts this document; its pages, cookies and processing of visitor requests are governed by the GitHub Privacy Statement linked above. See the Chinese policy above for the full details.
 
-## 社区内容处理
-
-隐藏技能、屏蔽作者以及已解析条目的公开作者关系保存在本机应用设置中，用于在刷新、重启后继续隐藏内容。可从市场的屏蔽列表解除屏蔽。应用不会把这些记录自动上传给发布者。举报功能生成含公开条目标识、来源链接及你主动填写的说明的邮件草稿；需由你确认发送。邮件由所选邮件服务处理，发布者收到的举报仅用于核查和回复，不自动附带本地文件、日志或凭据。
