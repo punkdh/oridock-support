@@ -72,3 +72,7 @@ OriDock 帮助你整理本地技能文档、连接外部 Agent 目录，并同�
 OriDock is published by Denghao. Contact [dh@denghao.org](mailto:dh@denghao.org) for support or privacy requests. You choose local folders the app may access. Optional local usage analysis and migration operate on your Mac. Git synchronization sends repository content, commit information and authentication requests to the HTTPS host you select; market features contact skills.sh, ClawHub and GitHub. Those services control their own retention and privacy practices.
 
 Credentials use macOS Keychain. There is no OriDock account, advertising integration or automatic diagnostics upload. The translation feature uses Apple's system Translation capability. Local backups and recovery copies do not have an automatic deletion deadline. Disconnecting or uninstalling does not erase external files, Keychain records or remote repositories. Support email is used to respond to your request and keep necessary correspondence. The publisher’s documentation content embeds no analytics or advertising code. GitHub hosts this document; its pages, cookies and processing of visitor requests are governed by the GitHub Privacy Statement linked above. See the Chinese policy above for the full details.
+
+## 社区内容处理
+
+隐藏技能、屏蔽作者以及已解析条目的公开作者关系保存在本机应用设置中，用于在刷新、重启后继续隐藏内容。可从市场的屏蔽列表解除屏蔽。应用不会把这些记录自动上传给发布者。举报功能生成含公开条目标识、来源链接及你主动填写的说明的邮件草稿；需由你确认发送。邮件由所选邮件服务处理，发布者收到的举报仅用于核查和回复，不自动附带本地文件、日志或凭据。
