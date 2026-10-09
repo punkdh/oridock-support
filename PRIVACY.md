@@ -51,7 +51,7 @@ OriDock 帮助你整理本地技能文档、连接外部 Agent 目录，并同�
 
 ## 7. 网站与支持邮件
 
-本网站不设置分析或广告脚本，不使用跟踪 Cookie，不加载第三方字体或脚本。访问页面时，网站托管与网络服务仍需接收 IP 地址、请求路径和浏览器传送的普通请求信息，以交付页面并维护服务。
+发布者提供的文档内容未嵌入分析或广告代码。本文由 GitHub 托管；GitHub 页面、Cookie 和访问信息处理适用 [GitHub 隐私声明](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)。
 
 主动给我们发邮件时，我们会收到你提供的邮箱、正文和附件，用于回复、解决问题及保留必要的支持往来。请不要发送密码、令牌、原始会话历史或完整私人库。我们不将支持邮件用于广告画像。你可联系支持邮箱请求删除或更正由发布者持有的信息；依法需要保留或处理尚未完成的记录可能暂时保留。
 
@@ -71,4 +71,4 @@ OriDock 帮助你整理本地技能文档、连接外部 Agent 目录，并同�
 
 OriDock is published by Denghao. Contact [dh@denghao.org](mailto:dh@denghao.org) for support or privacy requests. You choose local folders the app may access. Optional local usage analysis and migration operate on your Mac. Git synchronization sends repository content, commit information and authentication requests to the HTTPS host you select; market features contact skills.sh, ClawHub and GitHub. Those services control their own retention and privacy practices.
 
-Credentials use macOS Keychain. There is no OriDock account, advertising integration or automatic diagnostics upload. The translation feature uses Apple's system Translation capability. Local backups and recovery copies do not have an automatic deletion deadline. Disconnecting or uninstalling does not erase external files, Keychain records or remote repositories. Support email is used to respond to your request and keep necessary correspondence. This website has no tracking scripts, analytics or third-party fonts; hosting services still receive ordinary network requests. See the Chinese policy above for the full details.
+Credentials use macOS Keychain. There is no OriDock account, advertising integration or automatic diagnostics upload. The translation feature uses Apple's system Translation capability. Local backups and recovery copies do not have an automatic deletion deadline. Disconnecting or uninstalling does not erase external files, Keychain records or remote repositories. Support email is used to respond to your request and keep necessary correspondence. The publisher’s documentation content embeds no analytics or advertising code. GitHub hosts this document; its pages, cookies and processing of visitor requests are governed by the GitHub Privacy Statement linked above. See the Chinese policy above for the full details.
